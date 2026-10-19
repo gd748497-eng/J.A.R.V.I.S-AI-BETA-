@@ -1,0 +1,9 @@
+{
+  "name": "JARVIS - Sci-Fi Personal AI Assistant",
+  "description": "Advanced futuristic AI personal assistant for Android with voice interaction in English, Hindi & Hinglish, Iron Man HUD interface, long-term memory, and integrated tools.",
+  "requestFramePermissions": [
+    "microphone",
+    "camera"
+  ],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
